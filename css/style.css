@@ -1,0 +1,30 @@
+.backimg{
+    background-image: url('../img/itachi.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+.imgdiv{
+    display: inline-block;
+    width: 30%;
+    background: rgba(222, 218, 218, 0.34);
+    text-align: center;
+    color: yellow;
+    position: relative;
+}
+.div1{
+
+}
+.div2{
+    left: 40%;
+}
+.div3{
+    top: 27rem;
+    left: 9.3%;
+}
+.div4{
+    top: 60%;
+    top: 14.5rem;
+}
